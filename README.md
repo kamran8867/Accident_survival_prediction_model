@@ -7,8 +7,8 @@ This project aims to predict the survival chances of individuals involved in acc
 # Target Variable: Survived
 # Features Used:
 
--Age
--Gender
--Speed_of_Impact
--Helmet_Used
--Seatbelt_Used
+- Age
+- Gender
+- Speed_of_Impact
+- Helmet_Used
+- Seatbelt_Used
